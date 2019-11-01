@@ -1,0 +1,6 @@
+[submodule "resources/public/vendor/js/pixi.js"]
+	path = resources/public/vendor/js/pixi.js
+	url = https://github.com/pixijs/pixi.js.git
+[submodule "resources/public/vendor/js/howler.js"]
+	path = resources/public/vendor/js/howler.js
+	url = https://github.com/goldfire/howler.js.git
