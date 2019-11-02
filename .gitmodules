@@ -4,3 +4,6 @@
 [submodule "resources/public/vendor/js/howler.js"]
 	path = resources/public/vendor/js/howler.js
 	url = https://github.com/goldfire/howler.js.git
+[submodule "resources/public/vendor/js/mousetrap"]
+	path = resources/public/vendor/js/mousetrap
+	url = https://github.com/ccampbell/mousetrap.git
