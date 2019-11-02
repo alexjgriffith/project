@@ -1,0 +1,13 @@
+* Project (Working Name)
+A game engine built on [[https://github.com/pixijs/pixi.js][pixijs]] with the objective to mirror the workflow of [[https://love2d.org/][love2d]] using ClojureScript in the browser.
+
+** Build
+
+*** Dependencies
+| -pixi.js-   | v5.1.5 |
+| -howler.js- | v2.1.2 |
+
+
+
+
+

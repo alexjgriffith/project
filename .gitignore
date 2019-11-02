@@ -11,6 +11,8 @@ pom.xml.asc
 .DS_Store
 *.org
 !todo.org
+!readme.org
+!/docs/*.org
 \#*\#
 .\#*
 .nrepl-port
