@@ -4,8 +4,8 @@ A game engine built on [[https://github.com/pixijs/pixi.js][pixijs]] with the ob
 ** Build
 
 *** Dependencies
-| -pixi.js-   | v5.1.5 |
-| -howler.js- | v2.1.2 |
+| =pixi.js=   | v5.1.5 |
+| =howler.js= | v2.1.2 |
 
 
 
